@@ -42,7 +42,7 @@ class USER
 			echo $e->getMessage();
 		}				
 	}
-	
+	// teste de envio para o github
 	
 	public function doLogin($uname,$umail,$upass)
 	{
